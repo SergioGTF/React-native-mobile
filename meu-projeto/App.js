@@ -5,7 +5,7 @@ import Tittle from './src/components/Title';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Tittle/>
+      <Title/>
     </View>
   );
 }

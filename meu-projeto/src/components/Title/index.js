@@ -1,10 +1,10 @@
 import React from "react";
 import { View, Text} from "react-native"
 
-export default function Tittle(){
+export default function Title(){
     return(
         <View>
-            <text>ONEBITHEALTH</text>
+            <Text>ONEBITHEALTH</Text>
         </View>
     )
 }
